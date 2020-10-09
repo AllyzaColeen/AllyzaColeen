@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <hr>
 <p> 🔭 I’m currently working on improving myself as an individual with purpose </p>
 <p> 🌱 I’m currently learning JavaScript </p>
-<p> 📫 How to reach me: <a href="https://www.linkedin.com/in/coleen-fabellar-9403031a0/"> ![linkedIn]https://user-images.githubusercontent.com/64049672/95631808-e2c7c280-0ab6-11eb-8844-4c60d9128cf1.png </a>
+<p> 📫 How to reach me: linkedIn </a>
 
 
