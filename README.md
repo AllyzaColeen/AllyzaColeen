@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋 You can call me Coleen 😄
 
 <!--
 **AllyzaColeen/AllyzaColeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> I am a Creative QA/Developer </h2>
+<hr>
+<p> 🔭 I’m currently working on improving myself as an individual with purpose </p>
+<p> 🌱 I’m currently learning JavaScript </p>
+<p> 📫 How to reach me: <a href="https://www.linkedin.com/in/coleen-fabellar-9403031a0/"> ![linkedIn](https://user-images.githubusercontent.com/64049672/95631808-e2c7c280-0ab6-11eb-8844-4c60d9128cf1.png) </a>
+
+
